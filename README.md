@@ -8,4 +8,4 @@ A simple representation of the web app and its functionality is provided in the 
 ![negative review](negative_review.png)
 ![positive review](positive_review.png)
 
-*Please see the [README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).*
+*Please find [here](https://github.com/udacity/sagemaker-deployment/tree/master/README.md) instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).*
